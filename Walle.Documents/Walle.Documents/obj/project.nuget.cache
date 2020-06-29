@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMTt7ENValgxYCEMDVRNpXzaFOtGBoaYNXT0+ZEaCORUjQwz/VxoT5M9bWNIzs/FgCOH+rUPGZgb9msu5KpQ6g==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Walle.Documents\\Walle.Documents\\Walle.Documents\\Walle.Documents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FenghuiXu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
